@@ -1,10 +1,12 @@
-Named Entity Recognition (NER) using BERT
+NAMED ENTITY RECOGNITION (NER) USING BERT
 
 Introduction
 
 This project implements Named Entity Recognition (NER) using BERT (Bidirectional Encoder Representations from Transformers). NER is a subtask of Natural Language Processing (NLP) that identifies entities such as persons, organizations, locations, dates, and more in text data.
 
 Features
+
+✅ Trained on the CoNLL-23 dataset for high accuracy.
 
 ✅ Uses a pre-trained BERT model for token classification.
 
