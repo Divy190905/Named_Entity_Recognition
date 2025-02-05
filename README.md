@@ -6,12 +6,20 @@ This project implements Named Entity Recognition (NER) using BERT (Bidirectional
 
 Features
 
-Uses a pre-trained BERT model for token classification.
+✅ Uses a pre-trained BERT model for token classification.
 
-Fine-tunes BERT on a labeled dataset for entity recognition.
+✅ Fine-tunes BERT on a labeled dataset for entity recognition.
 
-Supports entity types such as Person (PER), Organization (ORG), Location (LOC), and Miscellaneous (MISC).
+✅ Supports entity types such as:
 
-Implements tokenization using the BERT tokenizer.
+Person (PER)
 
-Uses PyTorch and Hugging Face's transformers library.
+Organization (ORG)
+
+Location (LOC)
+
+Miscellaneous (MISC)
+
+✅ Implements tokenization using the BERT tokenizer.
+
+✅ Uses PyTorch and Hugging Face's transformers library.
